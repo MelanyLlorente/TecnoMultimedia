@@ -1,4 +1,4 @@
-/* Tp n° 2 Creditos "Lilo y Stitch"
+/* Tp n° 1 Creditos "Lilo y Stitch"
 Llorente, Melany Abril
 LEgajo 79624/3*/
 int py = 500;
