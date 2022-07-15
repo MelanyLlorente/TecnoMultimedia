@@ -55,11 +55,11 @@ void compararClaves() {
   posY-=30;
 
   for (int i=0; i<acertadas; i++) {
-    pincho(#ffffff);
+    pincho(2555);
     posX+=25;
   }
   for (int i=0; i<error; i++) {     
-    pincho(#000000);     
+    pincho(0);     
     posX+=25;   
   }   
   if(error==4){     
