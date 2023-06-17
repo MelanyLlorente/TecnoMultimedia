@@ -1,6 +1,7 @@
 /* Tp2 "Ilusion Optica"
  Llorente, Melany Abril
  Legajo 79624/3
+ Túve problemas para realizar la ilusión que habia elegido 
  Video: https://youtu.be/791ka_3H05k
  Inspirado en http://www.psy.ritsumei.ac.jp/~akitaoka/js_footstep_illusion04d-02.gif
  */
